@@ -5,3 +5,4 @@
 - Abstract Factory
 - Builder
 - Prototype
+- Singleton
