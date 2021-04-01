@@ -6,3 +6,7 @@
 - Builder
 - Prototype
 - Singleton
+
+## Structural Design Patterns
+- Adapter Method
+- Bridge Method
