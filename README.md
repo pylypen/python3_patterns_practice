@@ -12,3 +12,4 @@
 - Bridge Method
 - Composite Method
 - Decorator Method
+- Facade Method
