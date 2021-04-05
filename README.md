@@ -11,3 +11,4 @@
 - Adapter Method
 - Bridge Method
 - Composite Method
+- Decorator Method
