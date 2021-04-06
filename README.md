@@ -14,3 +14,4 @@
 - Decorator Method
 - Facade Method
 - Proxy Method
+- Flyweight Method
