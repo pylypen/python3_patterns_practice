@@ -13,3 +13,4 @@
 - Composite Method
 - Decorator Method
 - Facade Method
+- Proxy Method
