@@ -18,3 +18,4 @@
 
 ## Classification Design Patterns
 - Chain of Responsibility Method
+- Command Method
