@@ -17,3 +17,4 @@
 - Flyweight Method
 
 ## Classification Design Patterns
+- Chain of Responsibility Method
