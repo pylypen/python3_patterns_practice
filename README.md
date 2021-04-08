@@ -20,3 +20,4 @@
 - Chain of Responsibility Method
 - Command Method
 - Iterator Method
+- Mediator Method
