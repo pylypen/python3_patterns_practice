@@ -22,3 +22,4 @@
 - Iterator Method
 - Mediator Method
 - Memento Method
+- Observer Method
