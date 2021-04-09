@@ -21,3 +21,4 @@
 - Command Method
 - Iterator Method
 - Mediator Method
+- Memento Method
