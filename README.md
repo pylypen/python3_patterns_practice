@@ -23,3 +23,4 @@
 - Mediator Method
 - Memento Method
 - Observer Method
+- State Method
