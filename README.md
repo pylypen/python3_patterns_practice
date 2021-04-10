@@ -26,3 +26,4 @@
 - State Method
 - Strategy Method
 - Template Method
+- Visitor Method
