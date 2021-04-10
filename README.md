@@ -25,3 +25,4 @@
 - Observer Method
 - State Method
 - Strategy Method
+- Template Method
