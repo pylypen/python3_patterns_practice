@@ -24,3 +24,4 @@
 - Memento Method
 - Observer Method
 - State Method
+- Strategy Method
